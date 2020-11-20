@@ -1,0 +1,42 @@
+body {
+    padding: 0; 
+    margin: 0;
+    background-color: aqua;
+}
+
+button {
+    padding: 15px;
+    margin-left: 10%;
+    width: 200px;
+    height: 50px;
+    border: 1px solid white;
+    background-image: linear-gradient(-90deg, rgb(216, 75, 19), rgb(245, 160, 120));
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+    letter-spacing: 0.15cm;
+  }
+  
+  p{
+      margin-left: 42%;
+      margin-top: 15%;
+      font-style: oblique,bold;
+  }
+
+  h1{
+      margin-left: 38%;
+      font-family: cursive;
+  }
+
+  .img1{
+      height: -50%;
+      width: -50%;
+      transform: rotate(-40deg);
+  }
+
+  .div1{
+      display: flex;
+  }
